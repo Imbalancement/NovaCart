@@ -20,6 +20,7 @@
     "react-hot-toast": "^2.4.1",
     "react-router-dom": "^6.26.2",
     "recharts": "^2.12.7",
+    "storesite": "file:..",
     "zustand": "^4.5.5"
   },
   "devDependencies": {
